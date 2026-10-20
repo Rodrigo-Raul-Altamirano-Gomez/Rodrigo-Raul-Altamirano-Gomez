@@ -20,7 +20,7 @@ Implementation of a convolutional neural network using PyTorch for image classif
 
 ### Software Development
 
-**[BookShop — Web Application](https://github.com/Rodrigo-Raul-Altamirano-Gomez/BookShop-Web)** *(In Progress)*
+**[BookShop — Web Application](https://github.com/Rodrigo-Raul-Altamirano-Gomez/BookShop.git)** *(In Progress)*
 
 Academic web application for a bookstore, developed with C# and Blazor for the frontend, Java for the backend, and MySQL hosted on AWS.
 
