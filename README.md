@@ -12,27 +12,39 @@ I'm currently strengthening my foundations in machine learning and deep learning
 
 **[Multi-Layer Perceptron from Scratch](https://github.com/Rodrigo-Raul-Altamirano-Gomez/Multi_Layer_Perceptron_MNIST)**
 
-Implementation of a neural network using Python and NumPy, including forward propagation, backpropagation, activation functions, and gradient descent for image classification on MNIST.
+NumPy implementation of a neural network for MNIST image classification, including forward propagation, backpropagation, activation functions, and gradient descent.
 
 **[Convolutional Neural Network for CIFAR-10](https://github.com/Rodrigo-Raul-Altamirano-Gomez/Simple_Convolutional_Neural_Network_CIFAR10)**
 
-Implementation of a convolutional neural network using PyTorch for image classification, including model architecture, data preprocessing, training, and evaluation.
+PyTorch implementation of a convolutional neural network for image classification, including preprocessing, training, and evaluation.
 
-### Software Development
+**[Learning JAX](https://github.com/Rodrigo-Raul-Altamirano-Gomez/Aprendiendo_JAX)**
 
-**[BookShop — Web Application](https://github.com/Rodrigo-Raul-Altamirano-Gomez/BookShop.git)** *(In Progress)*
+Small implementations of linear, logistic, and polynomial regression to explore JAX.
 
-Academic web application for a bookstore, developed with C# and Blazor for the frontend, Java for the backend, and MySQL hosted on AWS.
+**[Learning CUDA](https://github.com/Rodrigo-Raul-Altamirano-Gomez/Aprendiendo-CUDA)**
+
+Introductory experiments with CUDA and GPU programming.
+
+### Software Engineering
+
+**[BookShop — Full-Stack Web Application](https://github.com/Rodrigo-Raul-Altamirano-Gomez/BookShop)** *(Academic project)*
+
+Bookstore application with a Java 25 / Jakarta EE REST backend, a C# / Blazor (.NET 10) frontend, and MySQL persistence. The project includes catalog browsing, recommendations, reviews, ordering, and PDF documents, with deployment configurations for Render.
 
 I serve as the lead developer, working on the application's development and integration.
 
+**[School Incident Management System — I01](https://github.com/Rodrigo-Raul-Altamirano-Gomez/SistemaIncidenciasEscolares)** *(Incremental prototype)*
+
+A school incident management project using Java / Spring Boot, PostgreSQL, and React with TypeScript. The published code focuses on the first vertical increment: recording and consulting everyday school incidents. It is not presented as a complete production system.
+
 ## Technical Background
 
-- **Machine Learning & Deep Learning:** Python, NumPy, PyTorch, neural networks.
-- **Programming Languages:** Python, C++, Java, C#, SQL.
-- **Web Development:** Blazor, Java backend development.
-- **Databases:** MySQL.
-- **Other:** Algorithms, data structures, object-oriented programming, Git, GitHub.
+- **Machine Learning & Deep Learning:** Python, NumPy, PyTorch, neural networks; introductory JAX and CUDA experiments.
+- **Programming Languages:** Python, C++, Java, C#, TypeScript, SQL.
+- **Web Development:** Blazor, React, Jakarta EE, Spring Boot, REST APIs.
+- **Databases:** MySQL, PostgreSQL.
+- **Tools & Concepts:** Docker, Git, GitHub, algorithms, data structures, object-oriented programming.
 
 ## Research Interests
 
